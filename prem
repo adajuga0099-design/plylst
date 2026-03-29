@@ -77,6 +77,9 @@ https://a1xs.vip/700008
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/84
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [Live Event] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -90,6 +93,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/85
 #https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [Live Event] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -1255,22 +1261,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 //========================================================================
 🔸🔸 Koleksi TV Anak 🔸🔸
 //========================================================================
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5U-eFm5qDrx43QM82lMEzJlvOc_6YmNlfJZOarNR1ld3Dnnw5rJaZqYNGZKF0i1SDQSkTpbaonfRAwIK4ixpapBrWUR6ZiNHnEsun8np-WQXGO3_lpDdXGr5VTQC2wyz3ZlzLzMr1tlzrbZmli07Ti1M-bsvSq9BG8hE4j8ozjm1-OCmSHRrLyYemViU/s700/MatematikaTV.png" group-title="Kids TV" , Matematika TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch80.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsI3IieBzN9pkk6qoaN819ymhllQ_i0_QeW_B9q2a5AHIJCVv0rLkwPhbqKjiNOUUMv0grvG8ZEZIpKpnJJTc2lxXrWzDUNPFaLhIEwp9MX5IIe7C-3CPjjvmhoRlhq88_Dr_IC6x5Z7nRLfeSdDM_mYqqv_RJMfWmoy0RZEGeafkptyGAWhuNAgByh8c/s700/EnglishStudy.png" group-title="Kids TV" , English Study
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch83.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWgp2BtQdaWu_npi73_HZXV030hVCE1EXmEU45mn_WJkdvpPDqAQV8R2rHyV_Db07MbQcN7z8D25doLY6e5bN9fPkYG4998zHL7DuxW6kVcw3ZhmavC3LznNtpCUnIq1OiOnZUfQJMdV7TAAmQhRNRrMh2gCR-JRHstNqjv6mb1BajNsI8otDBexdtKQ0/s700/DeiKids.png" group-title="Kids TV" ,Dei Kids TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTVLCOPT:http-referrer=https://youtv.live/
-https://flv.intechmedia.net/live/ch29.m3u8
-
-#EXTINF:-1 group-title="Kids TV" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZhYGXmsUvyLTzgqc45PK-fsOxYKdM0erdKWvQ-AKOkWmSHcywkW8Ch9CsTZWvCrFwsT0XfkEkKfbi-2He2DiWKKpiyPe30-4JE8WB7E6bYiYqZTnn2mI2Fl9uwcLgT7otKocdDuGLs63QV1gxaM9BMvyhMW7f6x05jSA20wUt7NoKTnBENGWoC4G3FsM/s700/ABCKids.png",ABC Kids
-https://c.mjh.nz/abc-kids.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Uib8u6WC-v5A3kLK3tPQFUJ7CnCDhMh4DbJuhC8Dbz72IunIlHBrRC_yM0-qWFLwlMD4CMdUXO_TfL3GZP3pUcQAv5KxJJhTDV99mbgllawp6-BriXE297AMdEw3-0JH8tGTgf5W52OTVEKpqiLWzv4U5qOA0rnrO9fHP3w5WcLkXiAfwF_5fewz3QM/s700/DisneyChannel.png" group-title="Kids TV",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
