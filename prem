@@ -478,6 +478,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Metro.TV.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieYz_s044W-tsD8cxL5Ofl2QmeUq7fYJw7jPywoTQrn0AuF9S2dm8oNqsJ9YmnvwHpEoSY23FVql-lGjv3NqXNbTfqzS6ky37zmuRlbmD2mXXFbRGwRylS25Gzhd2RJycTyZ2-UJV3aS08kxPRXfFo4vUQa580kpvLs91bwh_lMb0UofeMFdA6oqiUFck/s700/MetroTVHD.png" group-title="National",Metro TVᴴᴰ
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -503,11 +504,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9btfyWmqZ_GEAKro_wddYvFrtiQ3jgAr8Blq8-twHu43SnXVbNQkNxRQ1_EaDhh0tDS_TQzI-MYB1uksULXFgsL3AzqoSXMUHcaFeo1gtEoxkRKlrLZiMw7rWV044loHrIJP67tdvMUpfTGLfBXdNI0N4Ol3xsZFIKFVTn5H0z-aAm9tu1UfBav9BeVE/s700/DAAITV.png" group-title="National",Daai TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEildzotlUGcWyCz1PglhOlnz3Vb6-pt0KkQN9BERU-udjD12zQCEloJEHDv7Jo0LHFBRTJOL9eK6Q9ontEptTIBzPhs5pv-vh8B7FSjwW9azjeza1vm1zciqMj69jw6HmLz5l2CqOlQuwyvOoT-LfUPiyNg2i5T6WUPi4enN8TGDzUr7B_n737Fs2FtYOg/s700/MentariTV.png" group-title="National",Mentari TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d96a81a887fd46f1b18e1fd48c2eeb81:fb8947a8804c874cc0f0b71bdb609ca0
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -530,6 +526,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiSCqpHNoJssTiR9ZM4pp4WdStRvdg0gYGwP8azfQdM1yk6DsDj05BFk_uOWN3ejErpw4yMSR5F1hE1FNuRVLgdVCWuYW58mMJtv_QYv884sg7-cgFxBDpYdKtb6Bdt-lvqIW-wmbDAPdps0XNm0kOVA16Py_7Hrr9ihEZIbC48HvTqHU_itNW088Kk4A/s700/JTV.png" group-title="National",JTV
+https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
