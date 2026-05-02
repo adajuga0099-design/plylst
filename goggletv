@@ -665,3 +665,7 @@ https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/85
 #EXTINF:-1   tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDau0c1rzt6Cibo8JhcKpjPLFnYsn2n8y0Av0J1jSmVv15V6yQZOf0UcnzsYHyOaG8KLeaho0a-gYdIR6UWtEAApYX4R9MNpe6gk33T6KBpBZFb2PjLWn-NfOFqAqKTDrjqB9j1thusFLSr_YheajEDHPJRt9y1q0M-dSVqO3GMsPmoIaWIwuaV4uA3Q/s700/20251207_001416.jpg" group-title="Music",Music Play Tv 
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ohs2WT.png" group-title="Channel Nasional & Lokal",Al Quran Al Kareem (Mecca), Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
