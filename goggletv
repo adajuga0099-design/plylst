@@ -1,6 +1,5 @@
 #EXTM3U
 
-#PLAYLIST:Islam
 #EXTINF:0 tvg-country="undefined" tvg-logo="https://i.imgur.com/5ohs2WT.png" group-title="Channel Nasional & Lokal",Al Quran Al Kareem (Mecca), Quran
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
